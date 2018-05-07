@@ -1,0 +1,43 @@
+html {
+  font-family: Helvetica;
+}
+
+/* <start>optional but nice</start> */
+
+body {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* <end>optional but nice</end> */
+
+h1.desmoto {
+  background-image: url(./pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
+}
+
+strong {
+  font-weight: bold;
+  color: blue;
+}
